@@ -2,18 +2,20 @@
   "engines": {
     "node": "8.11.1"
   },
-  "name": "MAMAD",
-  "version": "1.5.5",
+  "name": "mira",
+  "version": "0.5.5",
   "description": "A DISCORD BOT",
-    "main": "index.js",
-    "scripts": {
-      "test": "ECHO This is Working!",
-      "start": "node index.js"
-    },
-    "no1": "zi#1753"
+  "main": "index.js",
+  "scripts": {
+    "test": "ECHO This is Working!",
+    "start": "node index.js"
   },
-   "license": "MIT",
-   "dependencies": {
+  "author": {
+    "no1": "Aηdiη.#9544",
+    "no2": "『₲ ℒ• Δ』 fauzi#1753"
+  },
+  "license": "MIT",
+  "dependencies": {
     "discord.js": "^11.3.2",
     "opusscript": "0.0.3",
     "ytdl-core": "^0.20.2",
