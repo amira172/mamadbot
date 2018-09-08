@@ -1,0 +1,2 @@
+# mamadbot
+A discord Bot
